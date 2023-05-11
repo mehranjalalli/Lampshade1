@@ -1,0 +1,37 @@
+C:\Hossein\Packages\.NetCoreMvcApi\examples\MVC_Final_Project\Code\Lampshade\ShopManagement.Application\bin\Debug\net5.0\ShopManagement.Application.deps.json
+C:\Hossein\Packages\.NetCoreMvcApi\examples\MVC_Final_Project\Code\Lampshade\ShopManagement.Application\bin\Debug\net5.0\ShopManagement.Application.dll
+C:\Hossein\Packages\.NetCoreMvcApi\examples\MVC_Final_Project\Code\Lampshade\ShopManagement.Application\bin\Debug\net5.0\ShopManagement.Application.pdb
+C:\Hossein\Packages\.NetCoreMvcApi\examples\MVC_Final_Project\Code\Lampshade\ShopManagement.Application\bin\Debug\net5.0\0_Framework.dll
+C:\Hossein\Packages\.NetCoreMvcApi\examples\MVC_Final_Project\Code\Lampshade\ShopManagement.Application\bin\Debug\net5.0\ShopManagement.Application.Contracts.dll
+C:\Hossein\Packages\.NetCoreMvcApi\examples\MVC_Final_Project\Code\Lampshade\ShopManagement.Application\bin\Debug\net5.0\ShopManagement.Domain.dll
+C:\Hossein\Packages\.NetCoreMvcApi\examples\MVC_Final_Project\Code\Lampshade\ShopManagement.Application\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Hossein\Packages\.NetCoreMvcApi\examples\MVC_Final_Project\Code\Lampshade\ShopManagement.Application\bin\Debug\net5.0\ShopManagement.Application.Contracts.pdb
+C:\Hossein\Packages\.NetCoreMvcApi\examples\MVC_Final_Project\Code\Lampshade\ShopManagement.Application\bin\Debug\net5.0\ShopManagement.Domain.pdb
+C:\Hossein\Packages\.NetCoreMvcApi\examples\MVC_Final_Project\Code\Lampshade\ShopManagement.Application\bin\Debug\net5.0\0_Framework.pdb
+C:\Hossein\Packages\.NetCoreMvcApi\examples\MVC_Final_Project\Code\Lampshade\ShopManagement.Application\bin\Debug\net5.0\Newtonsoft.Json.xml
+C:\Hossein\Packages\.NetCoreMvcApi\examples\MVC_Final_Project\Code\Lampshade\ShopManagement.Application\obj\Debug\net5.0\ShopManagement.Application.csprojAssemblyReference.cache
+C:\Hossein\Packages\.NetCoreMvcApi\examples\MVC_Final_Project\Code\Lampshade\ShopManagement.Application\obj\Debug\net5.0\ShopManagement.Application.AssemblyInfoInputs.cache
+C:\Hossein\Packages\.NetCoreMvcApi\examples\MVC_Final_Project\Code\Lampshade\ShopManagement.Application\obj\Debug\net5.0\ShopManagement.Application.AssemblyInfo.cs
+C:\Hossein\Packages\.NetCoreMvcApi\examples\MVC_Final_Project\Code\Lampshade\ShopManagement.Application\obj\Debug\net5.0\ShopManagement.Application.csproj.CoreCompileInputs.cache
+C:\Hossein\Packages\.NetCoreMvcApi\examples\MVC_Final_Project\Code\Lampshade\ShopManagement.Application\obj\Debug\net5.0\ShopManagement.Application.csproj.CopyComplete
+C:\Hossein\Packages\.NetCoreMvcApi\examples\MVC_Final_Project\Code\Lampshade\ShopManagement.Application\obj\Debug\net5.0\ShopManagement.Application.dll
+C:\Hossein\Packages\.NetCoreMvcApi\examples\MVC_Final_Project\Code\Lampshade\ShopManagement.Application\obj\Debug\net5.0\ShopManagement.Application.pdb
+D:\atriya\سورس کد\Code\Lampshade\ShopManagement.Application\obj\Debug\net5.0\ShopManagement.Application.csproj.AssemblyReference.cache
+D:\atriya\سورس کد\Code\Lampshade\ShopManagement.Application\obj\Debug\net5.0\ShopManagement.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\atriya\سورس کد\Code\Lampshade\ShopManagement.Application\obj\Debug\net5.0\ShopManagement.Application.AssemblyInfoInputs.cache
+D:\atriya\سورس کد\Code\Lampshade\ShopManagement.Application\obj\Debug\net5.0\ShopManagement.Application.AssemblyInfo.cs
+D:\atriya\سورس کد\Code\Lampshade\ShopManagement.Application\obj\Debug\net5.0\ShopManagement.Application.csproj.CoreCompileInputs.cache
+D:\atriya\سورس کد\Code\Lampshade\ShopManagement.Application\obj\Debug\net5.0\ShopManagement.Application.dll
+D:\atriya\سورس کد\Code\Lampshade\ShopManagement.Application\obj\Debug\net5.0\ShopManagement.Application.pdb
+D:\atriya\سورس کد\Code\Lampshade\ShopManagement.Application\bin\Debug\net5.0\ShopManagement.Application.deps.json
+D:\atriya\سورس کد\Code\Lampshade\ShopManagement.Application\bin\Debug\net5.0\ShopManagement.Application.dll
+D:\atriya\سورس کد\Code\Lampshade\ShopManagement.Application\bin\Debug\net5.0\ref\ShopManagement.Application.dll
+D:\atriya\سورس کد\Code\Lampshade\ShopManagement.Application\bin\Debug\net5.0\ShopManagement.Application.pdb
+D:\atriya\سورس کد\Code\Lampshade\ShopManagement.Application\bin\Debug\net5.0\0_Framework.dll
+D:\atriya\سورس کد\Code\Lampshade\ShopManagement.Application\bin\Debug\net5.0\ShopManagement.Application.Contracts.dll
+D:\atriya\سورس کد\Code\Lampshade\ShopManagement.Application\bin\Debug\net5.0\ShopManagement.Domain.dll
+D:\atriya\سورس کد\Code\Lampshade\ShopManagement.Application\bin\Debug\net5.0\ShopManagement.Application.Contracts.pdb
+D:\atriya\سورس کد\Code\Lampshade\ShopManagement.Application\bin\Debug\net5.0\ShopManagement.Domain.pdb
+D:\atriya\سورس کد\Code\Lampshade\ShopManagement.Application\bin\Debug\net5.0\0_Framework.pdb
+D:\atriya\سورس کد\Code\Lampshade\ShopManagement.Application\obj\Debug\net5.0\ShopManagement.Application.csproj.CopyComplete
+D:\atriya\سورس کد\Code\Lampshade\ShopManagement.Application\obj\Debug\net5.0\ref\ShopManagement.Application.dll

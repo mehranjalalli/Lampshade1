@@ -1,0 +1,24 @@
+C:\Hossein\Packages\.NetCoreMvcApi\examples\MVC_Final_Project\Code\Lampshade\0_Framework\bin\Debug\net5.0\0_Framework.deps.json
+C:\Hossein\Packages\.NetCoreMvcApi\examples\MVC_Final_Project\Code\Lampshade\0_Framework\bin\Debug\net5.0\0_Framework.dll
+C:\Hossein\Packages\.NetCoreMvcApi\examples\MVC_Final_Project\Code\Lampshade\0_Framework\bin\Debug\net5.0\0_Framework.pdb
+C:\Hossein\Packages\.NetCoreMvcApi\examples\MVC_Final_Project\Code\Lampshade\0_Framework\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Hossein\Packages\.NetCoreMvcApi\examples\MVC_Final_Project\Code\Lampshade\0_Framework\bin\Debug\net5.0\Newtonsoft.Json.xml
+C:\Hossein\Packages\.NetCoreMvcApi\examples\MVC_Final_Project\Code\Lampshade\0_Framework\obj\Debug\net5.0\0_Framework.csprojAssemblyReference.cache
+C:\Hossein\Packages\.NetCoreMvcApi\examples\MVC_Final_Project\Code\Lampshade\0_Framework\obj\Debug\net5.0\0_Framework.AssemblyInfoInputs.cache
+C:\Hossein\Packages\.NetCoreMvcApi\examples\MVC_Final_Project\Code\Lampshade\0_Framework\obj\Debug\net5.0\0_Framework.AssemblyInfo.cs
+C:\Hossein\Packages\.NetCoreMvcApi\examples\MVC_Final_Project\Code\Lampshade\0_Framework\obj\Debug\net5.0\0_Framework.csproj.CoreCompileInputs.cache
+C:\Hossein\Packages\.NetCoreMvcApi\examples\MVC_Final_Project\Code\Lampshade\0_Framework\obj\Debug\net5.0\0_Framework.csproj.CopyComplete
+C:\Hossein\Packages\.NetCoreMvcApi\examples\MVC_Final_Project\Code\Lampshade\0_Framework\obj\Debug\net5.0\0_Framework.dll
+C:\Hossein\Packages\.NetCoreMvcApi\examples\MVC_Final_Project\Code\Lampshade\0_Framework\obj\Debug\net5.0\0_Framework.pdb
+D:\atriya\سورس کد\Code\Lampshade\0_Framework\obj\Debug\net5.0\0_Framework.csproj.AssemblyReference.cache
+D:\atriya\سورس کد\Code\Lampshade\0_Framework\obj\Debug\net5.0\0_Framework.GeneratedMSBuildEditorConfig.editorconfig
+D:\atriya\سورس کد\Code\Lampshade\0_Framework\obj\Debug\net5.0\0_Framework.AssemblyInfoInputs.cache
+D:\atriya\سورس کد\Code\Lampshade\0_Framework\obj\Debug\net5.0\0_Framework.AssemblyInfo.cs
+D:\atriya\سورس کد\Code\Lampshade\0_Framework\obj\Debug\net5.0\0_Framework.csproj.CoreCompileInputs.cache
+D:\atriya\سورس کد\Code\Lampshade\0_Framework\obj\Debug\net5.0\0_Framework.dll
+D:\atriya\سورس کد\Code\Lampshade\0_Framework\obj\Debug\net5.0\0_Framework.pdb
+D:\atriya\سورس کد\Code\Lampshade\0_Framework\bin\Debug\net5.0\0_Framework.deps.json
+D:\atriya\سورس کد\Code\Lampshade\0_Framework\bin\Debug\net5.0\0_Framework.dll
+D:\atriya\سورس کد\Code\Lampshade\0_Framework\bin\Debug\net5.0\ref\0_Framework.dll
+D:\atriya\سورس کد\Code\Lampshade\0_Framework\bin\Debug\net5.0\0_Framework.pdb
+D:\atriya\سورس کد\Code\Lampshade\0_Framework\obj\Debug\net5.0\ref\0_Framework.dll
